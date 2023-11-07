@@ -1,10 +1,16 @@
+
+
+
+header,section,li {
+    background-color: #d6ccc2;
+	border:5px #9d8189 solid; 
+	padding: 20px 20px;
+}
+
 h1 {
 	color:blue;
 }
-header a{
-	color:red;
-	
-}
+
 h2 {
 	color:blue;
 	font-size:28px;
