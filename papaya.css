@@ -5,4 +5,5 @@
 main, header{
 	padding:30px;
 	background-color: #d6ccc2;
+	border:5px #9d8189 solid;
 }
